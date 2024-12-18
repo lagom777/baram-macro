@@ -1,0 +1,6 @@
+{
+    "DEFAULT_DELAY": 0.12,
+    "LOW_DELAY": 0.017,
+    "heal_count": 5,
+    "heal_interval_for_2": 6
+}
